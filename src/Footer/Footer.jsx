@@ -7,8 +7,8 @@ export default function Footer() {
   <div className=' row mx-auto  my-3'>
   
     <hr className='hrS col-10 mx-auto'/>
-    <div className=' my-2 bg-ligth row col-10'>
-    <div className='col-sm-10 col-md-5 text-center mx-auto'>
+    <div className=' my-2 bg-ligth row col-10 mx-auto'>
+    <div className='col-sm-10 col-md-4 text-center mx-auto'>
         <ul className="listD">
             <li className='my-3' ><span className='h6'>
                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-map" viewBox="0 0 16 16">
@@ -25,7 +25,7 @@ export default function Footer() {
                 </svg> Instagram : www.instagram.com/logisticas3</span> </li>
         </ul>
     </div>
-<div className='col-sm-10 col-md-4  text-center '>
+<div className='col-sm-10 col-md-4  text-center mx-auto'>
     <ul className="listD">
         <li className='my-3' ><a href="#" className='text-dark'style={{ textDecoration: 'none' }}> <span className='h6'> Home</span></a></li>
         <li className='my-3'  ><a href="#servicios" className='text-dark'style={{ textDecoration: 'none' }}> <span className='h6'> Servicios</span></a></li>

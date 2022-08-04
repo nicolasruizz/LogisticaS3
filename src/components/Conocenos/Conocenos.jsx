@@ -20,7 +20,7 @@ export default function Conocenos() {
             <div class="col-12 mt-1 h6"><strong>Telefono: (+549) 1162343318 </strong></div>
             <div class="col-12 h6" ><a className='link ' href="https://www.instagram.com/logisticas3/" > <strong>Instagram: www.instagram.com/logisticas3</strong></a></div>
             <div class="col-12 mb-2 h6" ><strong>   Dirección:Valentín Vergara 1557, Banfield</strong></div> 
-            <div class="col-12 map-responsive">
+            <div class="col-12 map-responsive mb-2">
             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3278.525879405531!2d-58.396580884171726!3d-34.742343472354285!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcd2a027b91be1%3A0xe042a1b57dffd7de!2sValent%C3%ADn%20Vergara%201557%2C%20B1828AAN%20Banfield%2C%20Provincia%20de%20Buenos%20Aires!5e0!3m2!1ses!2sar!4v1653317212464!5m2!1ses!2sar" width={500} height={350}  allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>   
             </div>
         </div>

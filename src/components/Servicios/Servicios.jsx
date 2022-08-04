@@ -3,7 +3,7 @@ import './Servicios.css'
 
 export default function Servicios() {
   return (
-    <div className=' w-100 p-4 row' id="servicios">
+    <div className=' w-100 p-4 row mx-auto' id="servicios">
         <div className='row col-12 servicios p-3 mx-auto'>
             <div className=' col-md-8 col-lg-6 col-xl-4 col-sm-12 border mx-auto text-center'>
                 <h1 className=' '><strong>¿ Por que elegir LogisticaS3?</strong></h1>
